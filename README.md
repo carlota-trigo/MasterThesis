@@ -11,7 +11,7 @@ The following things are required:
 - stable_baselines3 ```pip install stable-baselines3 ```
 
 ## Structure
-There are three folders in the repo: 
+There are two folders in the repo: 
 - Code: contains the code used for training and evaluation. It also includes the policies and the tensorboard outputs.
   Regarding the policies:
   - Standing Balance with no perturbation: policies_best_model/2023_05_17_18_05_04
