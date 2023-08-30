@@ -18,4 +18,4 @@ There are three folders in the repo:
   - Standing Balance with AP perturbation: policies_best_model/2023_05_25_17_25_29
   - Standing Balance with ML perturbation: policies_best_model/2023_06_21_21_18_35
 - Plotting: contains the scripts used for plotting the results of the evaluation of the policies, as well as the script used to obtain the figures shown in the report
-- Output: Contains the data from the policy evaluation, as well as the videos. 
+- Output: Contains the data from the policy evaluation, as .pkl files. 
